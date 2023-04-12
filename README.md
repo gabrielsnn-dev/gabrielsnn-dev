@@ -1,15 +1,17 @@
-Olá, me chamo Gabriel Senna!👋
+## Olá, me chamo Gabriel Senna!👋
+
 <hr>
 
-Minhas redes sociais 💻 <br>
+## Minhas redes sociais 💻
+
 <br>
+
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsenna-dev/)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.snn/)
 
-
 ![Gabriel Senna Github Stats](https://github-readme-stats.vercel.app/api?username=gabrielsnn-dev&show_icons=true&theme=yeblu)
 
-Tecnologias que eu uso no meu dia a dia.
+## Tecnologias que eu uso no meu dia a dia.
 
 <hr>
 
