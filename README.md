@@ -3,28 +3,31 @@
 
 
 
-- 📭 send-me a [email](mailto:gabriel.senna.dev)
+
 
 <!--social section-->
 <hr>
 
-<div align="center">
-<h1 align="center">📨 Connect with me:<h1/>
+<div align="left">
+<h1 align="left">📨 Connect with me:<h1/>
+  
+#### - 📭 send-me a [email](mailto:gabriel.senna.dev)
+  
 <a href="https://twitter.com/gabrielsnndev" target="_blank">
-  <img align="center" alt="Gabriel Senna | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Gabriel Senna | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/gabrielsenna-dev/" target="_blank">
-  <img align="center" alt="Gabriel Senna | Linkedin" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Gabriel Senna | Linkedin" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/gabriel.snn/" target="_blank">
-  <img align="center" alt="Gabriel Senna | Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Gabriel Senna | Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
  <div/>
 <br>
 <hr>
 
 <!--language and tools section-->
-<h4 align="center">🧰 Languages and tools <h4/>
+<h2 align="center">🧰 Languages and tools <h2/>
 <div style="display: inline_block" align="center">
  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/> 
