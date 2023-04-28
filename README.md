@@ -11,7 +11,7 @@
 <div align="center">
 <h1 align="center">📨 Connect with me:<h1/> 
   
-#### - 📭 send-me a [email](mailto:gabriel.senna.dev)
+### - 📭 send-me a [email](mailto:gabriel.senna.dev)
   
 <a href="https://twitter.com/gabrielsnndev" target="_blank">
   <img align="center" alt="Gabriel Senna | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
