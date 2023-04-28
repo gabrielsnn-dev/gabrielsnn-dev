@@ -1,5 +1,5 @@
 <!--introduction section-->
-## Hi there!👋. My name is Gabriel Senna and i'm from Brazil! 🇧🇷
+# Hi there!👋. My name is Gabriel Senna and i'm from Brazil! 🇧🇷
 
 
 - 📭 send-me a [email](mailto:gabriel.senna.dev)
