@@ -9,7 +9,6 @@
 
 <div align="center">
 <h2 align="left">Connect with me:<h2/>
-
 <a href="https://twitter.com/gabrielsnndev">
   <img align="left" alt="Gabriel Senna | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -24,7 +23,9 @@
 <hr>
 
 <!--language and tools section-->
-<h2 align="center">Language and tools 💻🧰<h2/>
+<h3 align="center">Language and tools 💻🧰<h2/>
+  
+
 <div style="display: inline_block" align="center">
  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/> 
@@ -34,7 +35,7 @@
 <br>
  <hr>
  
-Github Statistics and Top Languages
+### Github Statistics and Top Languages
 <br>
 <br>
  
