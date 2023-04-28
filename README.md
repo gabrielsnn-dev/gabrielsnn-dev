@@ -39,7 +39,7 @@
 <br>
  <hr>
  
-### Github Statistics and Top Languages
+## 🧠 Github Statistics and Top Languages
 <br>
 <br>
  
