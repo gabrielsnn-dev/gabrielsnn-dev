@@ -9,13 +9,13 @@
 
 <div align="center">
 <h1 align="center">📨 Connect with me:<h2/>
-<a href="https://twitter.com/gabrielsnndev">
+<a href="https://twitter.com/gabrielsnndev" target="_blank">
   <img align="center" alt="Gabriel Senna | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/gabrielsenna-dev/">
+<a href="https://www.linkedin.com/in/gabrielsenna-dev/" target="_blank">
   <img align="center" alt="Gabriel Senna | Linkedin" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/gabriel.snn/">
+<a href="https://www.instagram.com/gabriel.snn/" target="_blank">
   <img align="center" alt="Gabriel Senna | Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
  <div/>
