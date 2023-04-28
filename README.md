@@ -1,24 +1,30 @@
 <!--introduction section-->
 ## Hi there!👋. My name is Gabriel Senna and i'm from Brazil! 🇧🇷
-<hr>
- 
+
+
+- 📭 send-me a [email](mailto:gabriel.senna.dev)
+
 <!--social section-->
-### Connect with me:
+<hr>
 
--📭 send-me a [email](mailto:gabriel.senna.dev)
+<div align="center">
+<h2 align="left">Connect with me:<h2/>
 
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/gabrielsnndev">
+  <img align="left" alt="Gabriel Senna | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Gabriel's Linkedin" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/gabrielsenna-dev/">
+  <img align="left" alt="Gabriel Senna | Linkedin" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.instagram.com/gabriel.snn/">
+  <img align="left" alt="Gabriel Senna | Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+ <div/>
 <br>
 <hr>
 
 <!--language and tools section-->
 <h2 align="center">Language and tools 💻🧰<h2/>
-
 <div style="display: inline_block" align="center">
  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/> 
@@ -33,8 +39,8 @@ Github Statistics and Top Languages
 <br>
  
 <!--github stats section-->
- <img width="45%" alt="github stats" align="right"
+ <img height="160em" alt="github stats"
     src="https://github-readme-stats-celsiusdv.vercel.app/api?username=gabrielsnn-dev&hide=contribs,prs&count_private=true&show_icons=true&theme=blue-green"/>
- <img width="45%" alt="my top langs" align="left"
+ <img height="160em" alt="my top langs"
     src="https://github-readme-stats-celsiusdv.vercel.app/api/top-langs/?username=gabrielsnn-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats&langs_count=8&theme=blue-green"/>
 
