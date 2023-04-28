@@ -1,6 +1,6 @@
 <!--introduction section-->
 # Hi there!👋 My name is Gabriel Senna and i'm from Brazil. 🇧🇷
-# I'm a Backend Developer.
+
 
 
 - 📭 send-me a [email](mailto:gabriel.senna.dev)
