@@ -1,21 +1,40 @@
-## Olá, me chamo Gabriel Senna!👋
-
+<!--introduction section-->
+## Hi there!👋. My name is Gabriel Senna and i'm from Brazil! 🇧🇷
 <hr>
-
-## Minhas redes sociais 💻
-
-<br>
-
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/gabrielsenna-dev/)
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.snn/)
  
-## Tecnologias que eu uso no meu dia a dia.
+<!--social section-->
+### Connect with me:
 
+-📭 send-me a [email](mailto:gabriel.senna.dev)
+
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Gabriel's Linkedin" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br>
 <hr>
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</div><br/>
+<!--language and tools section-->
+<h2 align="center">Language and tools 💻🧰<h2/>
+
+<div style="display: inline_block" align="center">
+ <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
+ <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/> 
+ <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
+ <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+</div>
+<br>
+ <hr>
+ 
+Github Statistics and Top Languages
+<br>
+<br>
+ 
+<!--github stats section-->
+ <img width="45%" alt="github stats" align="right"
+    src="https://github-readme-stats-celsiusdv.vercel.app/api?username=gabrielsnn-dev&hide=contribs,prs&count_private=true&show_icons=true&theme=blue-green"/>
+ <img width="45%" alt="my top langs" align="left"
+    src="https://github-readme-stats-celsiusdv.vercel.app/api/top-langs/?username=gabrielsnn-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats&langs_count=8&theme=blue-green"/>
+
