@@ -1,5 +1,5 @@
 <!--introduction section-->
-# Hi there!👋. My name is Gabriel Senna and i'm from Brazil! 🇧🇷
+# Hi there!👋 My name is Gabriel Senna and i'm from Brazil. 🇧🇷
 
 
 - 📭 send-me a [email](mailto:gabriel.senna.dev)
@@ -29,6 +29,8 @@
  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/> 
  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+ <img  alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
+ <img  alt="stackoverflow" src="https://www.svgrepo.com/show/354386/stackoverflow-icon.svg" width="40px"/>
 </div>
 <br>
  <hr>
