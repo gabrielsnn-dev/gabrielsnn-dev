@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-gabrielsenna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/gabrielsenna-dev/) 
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.senna.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:gabriel.senna.dev@gmail.com)
 
-<h2> Me chamo Gabriel, sou do Rio Grande do Sul, Brasil e atualmente estou estudando programação back-end</h2>
+<h2> Me chamo Gabriel, sou do Rio Grande do Sul - Brasil, e atualmente estou estudando programação back-end</h2>
 
 
 ## 💻 Tecnologias que mais uso
