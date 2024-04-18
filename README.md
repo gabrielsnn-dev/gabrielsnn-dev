@@ -17,12 +17,3 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
-
-## Github Stats
-
-<img height="160em" alt="github stats"
-    src="https://github-readme-stats-celsiusdv.vercel.app/api?username=gabrielsnn-dev&hide=contribs,prs&count_private=true&show_icons=true&theme=blue-green"/>
- <img height="160em" alt="my top langs"
-    src="https://github-readme-stats-celsiusdv.vercel.app/api/top-langs/?username=gabrielsnn-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats&langs_count=8&theme=blue-green"/>
-
-
