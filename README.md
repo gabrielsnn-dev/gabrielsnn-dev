@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gabrielsenna.ctt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielsnn.ctt@gmail.com)](mailto:gabrielsenna.ctt@gmail.com)
 
 ## About me
-- 🇧🇷   I'm a brazilian developer who is trying to evolve even more each day.
+- 🇧🇷   I'm a brazilian developer who is trying to evolve more and more every day.
 - 🎓 Currently my goal is to major on Computer Engineering at FURG.
 - 🌱 I'm learning about back-end development.
 
